@@ -38,4 +38,11 @@
         android:layout_height="wrap_content"
         android:text="Query data"
         android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/chang_data"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Query data"
+        android:textAllCaps="false"/>
 </LinearLayout>
